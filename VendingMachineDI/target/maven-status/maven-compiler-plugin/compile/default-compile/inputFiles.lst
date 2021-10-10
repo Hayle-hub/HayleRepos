@@ -1,0 +1,17 @@
+C:\Repos\javaPart1\VendingMachineDI\src\main\java\com\hg\vendingmachine\controller\VendingMachineController.java
+C:\Repos\javaPart1\VendingMachineDI\src\main\java\com\hg\vendingmachine\dao\VendingMachineDao.java
+C:\Repos\javaPart1\VendingMachineDI\src\main\java\com\hg\vendingmachine\view\UserIO.java
+C:\Repos\javaPart1\VendingMachineDI\src\main\java\com\hg\vendingmachine\dto\Change.java
+C:\Repos\javaPart1\VendingMachineDI\src\main\java\com\hg\vendingmachine\view\UserIOConsoleImpl.java
+C:\Repos\javaPart1\VendingMachineDI\src\main\java\com\hg\vendingmachine\dao\VendingMachineAuditDaoFileImpl.java
+C:\Repos\javaPart1\VendingMachineDI\src\main\java\com\hg\vendingmachine\dao\VendingMachinePersistenceException.java
+C:\Repos\javaPart1\VendingMachineDI\src\main\java\com\hg\vendingmachine\service\VendingMachineServiceLayer.java
+C:\Repos\javaPart1\VendingMachineDI\src\main\java\com\hg\vendingmachine\service\VendingMachineServiceLayerImpl.java
+C:\Repos\javaPart1\VendingMachineDI\src\main\java\com\hg\vendingmachine\dto\Coins.java
+C:\Repos\javaPart1\VendingMachineDI\src\main\java\com\hg\vendingmachine\service\VendingMachineInsufficientFundsException.java
+C:\Repos\javaPart1\VendingMachineDI\src\main\java\com\hg\vendingmachine\dto\Item.java
+C:\Repos\javaPart1\VendingMachineDI\src\main\java\com\hg\vendingmachine\dao\VendingMachineDaoFileImpl.java
+C:\Repos\javaPart1\VendingMachineDI\src\main\java\com\hg\vendingmachine\dao\VendingMachineAuditDao.java
+C:\Repos\javaPart1\VendingMachineDI\src\main\java\com\hg\vendingmachine\view\VendingMachineView.java
+C:\Repos\javaPart1\VendingMachineDI\src\main\java\com\hg\vendingmachine\service\VendingMachineOutOfStockException.java
+C:\Repos\javaPart1\VendingMachineDI\src\main\java\com\hg\vendingmachine\App.java

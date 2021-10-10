@@ -1,0 +1,20 @@
+
+2021-10-08T07:29:15.228735200 : Option 1(Chips) is not in stock!
+2021-10-08T07:30:02.981976900 : Insufficient funds to purchase item 2(Coke).
+2021-10-08T07:30:35.182530200 : Item 4(Pepsi) was successfully purchased.
+2021-10-08T07:49:44.740843400 : Item 2(Diet Coke) was successfully purchased.
+2021-10-08T08:44:07.134710900 : Item 2(Diet Coke) was successfully purchased.
+2021-10-08T08:48:32.635022900 : Item 2(Diet Coke) was successfully purchased.
+2021-10-08T08:52:33.179852500 : Item 2(Diet Coke) was successfully purchased.
+2021-10-08T08:56:02.879431200 : Item 2(Diet Coke) was successfully purchased.
+2021-10-08T09:00:49.561358600 : Item 2(Diet Coke) was successfully purchased.
+2021-10-08T09:13:26.710822200 : Item 2(Diet Coke) was successfully purchased.
+2021-10-08T09:14:47.125130800 : Item 2(Diet Coke) was successfully purchased.
+2021-10-08T09:18:04.519981800 : Item 2(Diet Coke) was successfully purchased.
+2021-10-08T09:20:13.768653700 : Option 1(Chips) is not in stock!
+2021-10-08T09:20:48.535394600 : Insufficient funds to purchase item 2(Coke).
+2021-10-08T09:25:30.577806 : Item 2(Diet Coke) was successfully purchased.
+2021-10-08T09:25:58.032807300 : Option 1(Chips) is not in stock!
+2021-10-09T11:23:09.611405200 : Item 2(Diet Coke) was successfully purchased.
+2021-10-09T12:42:08.747667500 : Item 2(Diet Coke) was successfully purchased.
+2021-10-09T17:46:06.349935600 : Item 2(Diet Coke) was successfully purchased.

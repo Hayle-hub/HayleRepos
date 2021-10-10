@@ -1,0 +1,7 @@
+
+2021-10-08T07:29:15.228735200 : Option 1(Chips) is not in stock!
+2021-10-08T07:30:02.981976900 : Insufficient funds to purchase item 2(Coke).
+2021-10-08T07:30:35.182530200 : Item 4(Pepsi) was successfully purchased.
+2021-10-09T17:57:09.840838100 : Item 2(Diet Coke) was successfully purchased.
+2021-10-09T17:58:33.675486100 : Item 2(Diet Coke) was successfully purchased.
+2021-10-09T17:58:59.007712900 : Option 1(Chips) is not in stock!
