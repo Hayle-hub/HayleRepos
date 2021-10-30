@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: com.hg.flooringmastery.dao.OrderDaoTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 6, Errors: 0, Skipped: 0, Time elapsed: 0.083 sec <<< FAILURE!
+com.hg.flooringmastery.dao.OrderDaoTest.testCreateOrder()  Time elapsed: 0.075 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.hg.flooringmastery.dao.OrderDaoTest.testCreateOrder(OrderDaoTest.java:66)
+
+com.hg.flooringmastery.dao.OrderDaoTest.testUpdateOrder()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.hg.flooringmastery.dao.OrderDaoTest.testUpdateOrder(OrderDaoTest.java:131)
+
+com.hg.flooringmastery.dao.OrderDaoTest.testDeleteOrder()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.hg.flooringmastery.dao.OrderDaoTest.testDeleteOrder(OrderDaoTest.java:161)
+
+com.hg.flooringmastery.dao.OrderDaoTest.testGetAllOrders()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.hg.flooringmastery.dao.OrderDaoTest.testGetAllOrders(OrderDaoTest.java:175)
+
+com.hg.flooringmastery.dao.OrderDaoTest.testReadOrderById()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.hg.flooringmastery.dao.OrderDaoTest.testReadOrderById(OrderDaoTest.java:105)
+
+com.hg.flooringmastery.dao.OrderDaoTest.testReadAllOrders()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.hg.flooringmastery.dao.OrderDaoTest.testReadAllOrders(OrderDaoTest.java:82)
+

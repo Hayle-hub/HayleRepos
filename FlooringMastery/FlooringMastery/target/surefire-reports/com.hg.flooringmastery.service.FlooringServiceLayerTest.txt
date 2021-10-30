@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: com.hg.flooringmastery.service.FlooringServiceLayerTest
+-------------------------------------------------------------------------------
+Tests run: 15, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.029 sec <<< FAILURE!
+com.hg.flooringmastery.service.FlooringServiceLayerTest.testExportAllData()  Time elapsed: 0.005 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.hg.flooringmastery.dao.ExportDaoStubImpl.marshallOrder(ExportDaoStubImpl.java:67)
+	at com.hg.flooringmastery.dao.ExportDaoStubImpl.saveOrdersToFile(ExportDaoStubImpl.java:41)
+	at com.hg.flooringmastery.service.FlooringServiceLayerImpl.exportAllData(FlooringServiceLayerImpl.java:128)
+	at com.hg.flooringmastery.service.FlooringServiceLayerTest.testExportAllData(FlooringServiceLayerTest.java:194)
+

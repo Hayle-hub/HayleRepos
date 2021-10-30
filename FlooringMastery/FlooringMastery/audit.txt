@@ -1,0 +1,4 @@
+2021-10-28T19:41:25.360252800 : addOrder: Order was successfully added : Date: 2021-11-09, order number: 25, customer name: Hayle, state: CA, product: Carpet, area: 100, materialCost: 225.00, laborCost: 210.00, tax: 108.75, total: 543.75.
+2021-10-30T05:43:31.704576300 : addOrder: Order was successfully added : Date: 2021-11-15, order number: 4, customer name: Hayleg, state: CA, product: Tile, area: 112, materialCost: 392.00, laborCost: 464.80, tax: 214.20, total: 1071.00.
+2021-10-30T05:44:31.063669800 : displayOrders: Orders were successfully displayed : 2021-11-15
+2021-10-30T05:44:46.405031400 : displayOrders: Orders were successfully displayed : 2021-11-15

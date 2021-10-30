@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+4,Hayleg,CA,25.00,Tile,112,3.50,4.15,392.00,464.80,214.20,1071.00

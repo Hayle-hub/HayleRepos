@@ -1,0 +1,3 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total,OrderDate
+3,Hayle,CA,25.00,Wood,100,5.15,4.75,515.00,475.00,247.50,1237.50,01-02-2021
+18,Steven dan,CA,25.00,Wood,1098,5.15,4.75,5654.70,5215.50,2717.55,13587.75,07-07-2021
